@@ -1,0 +1,2 @@
+RandomForest mean ROC-AUC: 0.832 | XGBoost mean ROC-AUC: 0.819
+Selected model: random_forest

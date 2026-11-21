@@ -1,0 +1,11 @@
+model,label,precision,recall,f1,roc_auc
+RandomForest,anemia_risk,0.355,0.569,0.437,0.833
+RandomForest,iron_deficiency,0.411,0.646,0.502,0.859
+RandomForest,vitamin_d_deficiency,0.295,0.619,0.4,0.813
+RandomForest,b12_deficiency,0.163,0.152,0.157,0.751
+RandomForest,calcium_deficiency,0.265,0.409,0.321,0.902
+XGBoost,anemia_risk,0.462,0.103,0.169,0.82
+XGBoost,iron_deficiency,0.5,0.228,0.313,0.837
+XGBoost,vitamin_d_deficiency,0.4,0.095,0.154,0.798
+XGBoost,b12_deficiency,0.286,0.043,0.075,0.728
+XGBoost,calcium_deficiency,0.571,0.182,0.276,0.911

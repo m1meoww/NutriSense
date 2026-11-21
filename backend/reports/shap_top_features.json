@@ -1,0 +1,132 @@
+{
+  "anemia_risk": [
+    {
+      "feature": "num__avg_iron_mg",
+      "mean_abs_shap": 0.107
+    },
+    {
+      "feature": "cat__gender_Female",
+      "mean_abs_shap": 0.088
+    },
+    {
+      "feature": "num__avg_protein_g",
+      "mean_abs_shap": 0.0729
+    },
+    {
+      "feature": "cat__gender_Male",
+      "mean_abs_shap": 0.0597
+    },
+    {
+      "feature": "num__avg_b12_mcg",
+      "mean_abs_shap": 0.0169
+    },
+    {
+      "feature": "num__avg_calcium_mg",
+      "mean_abs_shap": 0.016
+    }
+  ],
+  "iron_deficiency": [
+    {
+      "feature": "num__avg_iron_mg",
+      "mean_abs_shap": 0.1302
+    },
+    {
+      "feature": "cat__gender_Female",
+      "mean_abs_shap": 0.1062
+    },
+    {
+      "feature": "cat__gender_Male",
+      "mean_abs_shap": 0.0676
+    },
+    {
+      "feature": "num__avg_protein_g",
+      "mean_abs_shap": 0.0379
+    },
+    {
+      "feature": "num__symptom_fatigue",
+      "mean_abs_shap": 0.0176
+    },
+    {
+      "feature": "num__symptom_hair_loss",
+      "mean_abs_shap": 0.015
+    }
+  ],
+  "vitamin_d_deficiency": [
+    {
+      "feature": "num__avg_vitamin_d_iu",
+      "mean_abs_shap": 0.126
+    },
+    {
+      "feature": "cat__activity_level_Light",
+      "mean_abs_shap": 0.0734
+    },
+    {
+      "feature": "cat__activity_level_Moderate",
+      "mean_abs_shap": 0.0715
+    },
+    {
+      "feature": "cat__activity_level_Sedentary",
+      "mean_abs_shap": 0.0555
+    },
+    {
+      "feature": "cat__activity_level_Active",
+      "mean_abs_shap": 0.0468
+    },
+    {
+      "feature": "cat__activity_level_Very active",
+      "mean_abs_shap": 0.0213
+    }
+  ],
+  "b12_deficiency": [
+    {
+      "feature": "num__avg_b12_mcg",
+      "mean_abs_shap": 0.1783
+    },
+    {
+      "feature": "num__age",
+      "mean_abs_shap": 0.0297
+    },
+    {
+      "feature": "cat__dietary_preference_Non-Vegetarian",
+      "mean_abs_shap": 0.0221
+    },
+    {
+      "feature": "num__avg_vitamin_d_iu",
+      "mean_abs_shap": 0.0213
+    },
+    {
+      "feature": "num__symptom_mood",
+      "mean_abs_shap": 0.0192
+    },
+    {
+      "feature": "num__avg_kcal",
+      "mean_abs_shap": 0.0156
+    }
+  ],
+  "calcium_deficiency": [
+    {
+      "feature": "num__avg_calcium_mg",
+      "mean_abs_shap": 0.1985
+    },
+    {
+      "feature": "num__age",
+      "mean_abs_shap": 0.1086
+    },
+    {
+      "feature": "num__avg_b12_mcg",
+      "mean_abs_shap": 0.028
+    },
+    {
+      "feature": "num__avg_iron_mg",
+      "mean_abs_shap": 0.0199
+    },
+    {
+      "feature": "num__avg_protein_g",
+      "mean_abs_shap": 0.0179
+    },
+    {
+      "feature": "num__avg_vitamin_d_iu",
+      "mean_abs_shap": 0.0158
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "age": 24,
+  "gender": "Female",
+  "bmi": 22.9,
+  "activity_level": "Moderate",
+  "dietary_preference": "Vegan",
+  "avg_kcal": 1700,
+  "avg_protein_g": 40,
+  "avg_fiber_g": 15,
+  "avg_iron_mg": 5,
+  "avg_b12_mcg": 0.4,
+  "avg_calcium_mg": 400,
+  "avg_vitamin_d_iu": 120,
+  "symptom_fatigue": 3,
+  "symptom_hair_loss": 2,
+  "symptom_skin": 1,
+  "symptom_muscle_weakness": 2,
+  "symptom_mood": 2
+}
