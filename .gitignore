@@ -1,0 +1,33 @@
+# ---- Frontend (Vite / React / Node) ----
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---- Backend (Python / FastAPI / ML) ----
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Large/regeneratable ML artifacts — keep out of git history if the repo has a size limit.
+# Comment these two lines back OUT if you want the trained model committed as-is (simplest for a demo repo).
+# models/*.joblib
+# data/nutrisense_dataset.csv
+
+# ---- Editor / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
