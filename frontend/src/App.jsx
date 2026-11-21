@@ -163,7 +163,9 @@ const MEAL_META = {
 const MEAL_SLOTS_ORDER = ["breakfast", "lunch", "snack", "dinner"];
 
 // Set VITE_API_BASE_URL in the hosting dashboard for production.
-const API_BASE = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\\/$/, "");
+
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+
 
 /* ---------------- Helper functions ---------------- */
 
