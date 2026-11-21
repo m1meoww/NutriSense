@@ -33,7 +33,7 @@ per-prediction reasoning.
 - SHAP-based explanations — every prediction shows *why*, not just a score
 - Live frontend → FastAPI connection with a local explainable fallback for demonstrations
 
-**Milestone 3 — Recommendation & Meal Planning**
+**Recommendation & Meal Planning**
 - Deficiency → nutrient → food-source mapping
 - Risk-prioritized food recommendations
 - Hard filters for vegetarian / vegan / eggetarian / non-vegetarian profiles
@@ -122,5 +122,5 @@ Symptoms & Labs → ML Risk Insights → Run risk assessment**.
 
 ## Author
 
-Built by Mimansha Jha 🎀
+Built by **Mimansha Jha 🎀**
 
