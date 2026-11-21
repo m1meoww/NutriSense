@@ -1,11 +1,9 @@
 # NutriSense 🥑 — AI-Powered Nutrition Intelligence
 
-NutriSense is a full-stack nutrition intelligence system built during an AI/ML internship.
+NutriSense is a full-stack nutrition intelligence system.
 It combines a health-tracking web app with a trained machine-learning model that predicts
 nutrient-deficiency risk from a user's diet, symptoms, and profile — with explainable,
 per-prediction reasoning.
-
-> Internship deliverable — Milestones 1, 2 and 3 are implemented. Milestone 3 adds an explainable recommendation engine, safety filtering, recipe discovery, a 7-day meal planner, persistent snapshots, trend history, and end-to-end dashboard integration.
 
 ---
 
